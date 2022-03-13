@@ -6,5 +6,5 @@ Desejo atuar com foco em Back-End e CyberSegurança.
 
 📚 Aprendizado: CSS, MySQL, em breve Python.
 
-💻 Ferramentas: Sublime,VSCode, Git, GitHub.
+💻 Ferramentas: Sublime, VSCode, Git, GitHub.
 
