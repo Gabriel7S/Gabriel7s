@@ -4,7 +4,7 @@ No momento estou em focado em projetos afim de melhorar minha habilidades Full S
 
 👩‍💻 Habilidades: HTML, JavaScript.
 
-📚 Aprendizado: CSS, MySQL, em breve Python.
+📚 Aprendizado: CSS, MySQL, Node.Js em breve Python.
 
 💻 Ferramentas: Sublime, VSCode, Git, GitHub.
 
