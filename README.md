@@ -4,7 +4,7 @@ Sou estudante de Analise e Desenvolvimento de Sistemas.
 No momento estou em focado em projetos pessoais com a finalidade de melhorar minha habilidades como dev Full Stack.
 
 
-👩‍💻 Habilidades: HTML, CSS e JavaScript, Python, Django e TypeScript.
+👩‍💻 Habilidades: HTML, CSS, JavaScript, Python, Django e TypeScript.
 
 📚 Aprendizado: MySQL, PostgreSQL e React.
 
