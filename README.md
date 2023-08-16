@@ -5,7 +5,7 @@ No momento estou em focado em projetos pessoais com a finalidade de melhorar min
 
 👩‍💻 Habilidades: HTML, CSS, JavaScript, Python, Django, TypeScript, React, C#, Delphi, Java, Node.js
 
-📚 Aprendizado:PostgreSQL, Mongo DB e React.
+📚 Aprendizado:PostgreSQL, Mongo DB, Kotlin e React.
 
 💻 Ferramentas: Sublime, VSCode, Git, GitHub e PyCharm.
 
