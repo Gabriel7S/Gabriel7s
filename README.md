@@ -1,11 +1,11 @@
-Seja bem vindo ! Meu nome é Gabriel da Silva, tenho 24 anos, sou de Serra/ES.
+Seja bem vindo ! Meu nome é Gabriel da Silva, tenho 25 anos, sou de Serra/ES.
 Sou Psicólogo em trasição de carreira pra TI e estudante de Analise e Desenvolvimento de Sistemas.
-No momento estou em focado em projetos pessoais com a finalidade de melhorar minha habilidades como dev Full Stack.
+No momento estou em focado em projetos pessoais com a finalidade de melhorar minha habilidades como dev.
 
 
-👩‍💻 Habilidades: HTML, CSS, JavaScript, Python, Django e TypeScript.
+👩‍💻 Habilidades: HTML, CSS, JavaScript, Python, Django, TypeScript, React, C#, Delphi, Java, Node.js
 
-📚 Aprendizado: MySQL, PostgreSQL e React.
+📚 Aprendizado:PostgreSQL, Mongo DB e React.
 
 💻 Ferramentas: Sublime, VSCode, Git, GitHub e PyCharm.
 
